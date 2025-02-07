@@ -1,0 +1,21 @@
+{
+	"id": "c39578c0-288d-4d61-a514-4273eb37a55d",
+	"createdAt": "2025-02-07T09:51:10.000Z",
+	"createdBy": "admin",
+	"settings": null,
+	"name": "Test2",
+	"type": "react",
+	"description": null,
+	"onlyRuntime": false,
+	"package": "1bf4e09c-5576-42f8-8dd9-2c21fda8f574",
+	"roles": [],
+	"runtime": {
+		"id": "c39578c0-288d-4d61-a514-4273eb37a55d",
+		"createdAt": "2025-02-07T09:51:10.000Z",
+		"page": "file:///index.html",
+		"name": "Test2",
+		"ver": null,
+		"publicAccess": false,
+		"assets": []
+	}
+}

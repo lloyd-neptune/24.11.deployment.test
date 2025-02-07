@@ -1,0 +1,67 @@
+{
+	"id": "1bf4e09c-5576-42f8-8dd9-2c21fda8f574",
+	"createdAt": "2025-02-07T09:31:37.000Z",
+	"createdBy": "admin",
+	"git": {
+		"remote": "https://github.com/lloyd-neptune/24.11.deployment.test",
+		"branch": "master"
+	},
+	"name": "All",
+	"description": null,
+	"ver": "25.02.07.1243",
+	"enableCICD": true,
+	"internalReadOnly": false,
+	"oeVersion": null,
+	"excludeTemplateFiles": false,
+	"roles": [],
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"tile_layout": [],
+	"category": [],
+	"tilegroup_layout": [],
+	"launchpad": [],
+	"launchpad_layout": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": [],
+	"theme_ui5": [],
+	"webapp": [
+		{
+			"id": "e74e9d3c-71f5-4993-bcb1-e1c169e88c2d",
+			"name": "Test",
+			"description": null
+		},
+		{
+			"id": "c39578c0-288d-4d61-a514-4273eb37a55d",
+			"name": "Test2",
+			"description": null
+		},
+		{
+			"id": "9d45f49b-ccaa-4c34-947a-4553945fbcab",
+			"name": "importTest",
+			"description": null
+		}
+	]
+}
